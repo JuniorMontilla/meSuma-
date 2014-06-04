@@ -24,7 +24,7 @@ python empleado1.py  1 [donde 1 es el id de la provincia]
 
 **requrimientos**
 
-* Python 2.7.3
+* Python 2.7.6
 * json
 * urllib
 * sqlite3
