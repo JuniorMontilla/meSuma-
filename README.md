@@ -5,26 +5,26 @@ scripts para apalicar a el puesto python backend developer en meSuma
 
 #empleado.py: 
 
-##uso:
+**uso:**
 
 python empleado.py
 
-##requerimientos:
+**requerimientos:**
 
-python  2.7.6
-beautifulsoup4
-sqlite3
-urllib
+* python  2.7.6
+* beautifulsoup4
+* sqlite3
+* urllib
 
 #empleado1.py
 
-##uso:
+**uso:**
 
 python empleado1.py  1 [donde 1 es el id de la provincia]
 
-##requrimientos
+**requrimientos**
 
-python 2.7.3
-json
-urllib
-sqlite3
+* python 2.7.3
+* json
+* urllib
+* sqlite3
