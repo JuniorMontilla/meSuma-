@@ -29,4 +29,5 @@ cursor.execute('''
 
 cursor.execute('INSERT INTO Cupexchange VALUES(?,?,?,?)', datatostorage)
 database.commit()
+database.close()
 print 'The data have been stored properly'

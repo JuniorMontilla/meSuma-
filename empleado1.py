@@ -18,4 +18,5 @@ if len(argv)> 1:
     cursor.execute('CREATE TABLE IF NOT EXISTS Province (name text)')
     cursor.execute('INSERT INTO Province VALUES(?)', datatostorage)
     database.commit()
+    database.close()
     print 'the province {0} has been properly stored'.format(datatostorage[0])
